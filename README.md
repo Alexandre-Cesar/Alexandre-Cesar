@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Olá, me chamo Alexandre Cesar e sou um estudante de Análise e Desenvolvimento de Sistemas.<br>    👀 Meu objetivo é conseguir evoluir cada vez mais o meu conhecimento em programação e desenvolver projetos incriveis nas linguagens que estou aprendendo.<br>    🌱 Ultimamente estou me dedicando a linguagem PHP, porém também sei as linguagens Python e Java (muito pouco utilizadas por mim ultimamente).<br>    💞️ No momento estou apenas trabalhando em meu projeto particular, mas estou disposto a ajudar em seu projeto caso eu possa.<br>    📫 e-mail: alexandre.cesardf@hotmail.com → Instagram @the.ace0<br><br>
+<br>    👋 Olá, me chamo Alexandre Cesar e sou um estudante de Análise e Desenvolvimento de Sistemas.<br>    👀 Meu objetivo é conseguir evoluir cada vez mais o meu conhecimento em programação e desenvolver projetos incriveis nas linguagens que estou aprendendo.<br>    🌱 Ultimamente estou me dedicando a linguagem Python, porém também sei as linguagens PHP e Java (muito pouco utilizadas por mim ultimamente).<br>    💞️ No momento estou apenas aprendendo novas bibliotecas do Python, mas estou disposto a ajudar em seu projeto caso eu possa.<br>    📫 e-mail: alexandre.cesardf@hotmail.com → Instagram @the.ace0<br><br>
 
 
 # 💻 Tech Stack:
