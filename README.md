@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, me chamo Alexandre Cesar e sou formado em Análise e Desenvolvimento de Sistemas.<br>👀 Meu objetivo é conseguir evoluir cada vez mais o meu conhecimento em programação e desenvolver projetos incriveis nas linguagens que estou aprendendo.<br>🌱 Ultimamente estou me dedicando a linguagem Python, porém também sei as linguagens PHP e Java (muito pouco utilizadas por mim ultimamente).<br>💞️ No momento estou apenas aprendendo novas bibliotecas do Python, mas estou disposto a ajudar em seu projeto caso eu possa.<br>📫 e-mail: alexandre.cesardf@hotmail.com → Instagram @the.ace0<br>
+👋 Olá, me chamo Alexandre Cesar e sou formado em Análise e Desenvolvimento de Sistemas.<br> :gem: Meu objetivo é conseguir evoluir cada vez mais o meu conhecimento em programação e desenvolver projetos incriveis nas linguagens que estou aprendendo.<br>🌱 Ultimamente estou me dedicando a linguagem Python, porém também sei as linguagens PHP e Java (muito pouco utilizadas por mim ultimamente).<br>📫 e-mail: alexandre.cesardf@hotmail.com → Instagram @the.ace0<br>
 
 
 ## 🌐 Socials:
